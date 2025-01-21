@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\テトリス\bin\Debug\テトリス.exe.config
+C:\Users\Administrator\source\repos\テトリス\bin\Debug\テトリス.exe
+C:\Users\Administrator\source\repos\テトリス\bin\Debug\テトリス.pdb
+C:\Users\Administrator\source\repos\テトリス\obj\Debug\テトリス.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\テトリス\obj\Debug\テトリス.Properties.Resources.resources
+C:\Users\Administrator\source\repos\テトリス\obj\Debug\テトリス.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\テトリス\obj\Debug\テトリス.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\テトリス\obj\Debug\テトリス.exe
+C:\Users\Administrator\source\repos\テトリス\obj\Debug\テトリス.pdb
